@@ -1,2 +1,3 @@
 proba
 nastepna linia
+linia z netbeansa
