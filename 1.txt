@@ -2,3 +2,4 @@ test
 newbranch
 master branch
 master new
+jeszcze jedna
