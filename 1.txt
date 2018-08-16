@@ -4,4 +4,5 @@ master branch
 master new
 jeszcze jedna
 dodałem w phpstorm
-wiersz
+zzz
+
