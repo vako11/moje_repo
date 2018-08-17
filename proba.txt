@@ -3,4 +3,3 @@ nastepna linia
 linia z netbeansa
 jeszcze jedna linia
 d4
-ps
