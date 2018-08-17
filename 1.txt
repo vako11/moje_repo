@@ -5,5 +5,4 @@ master new
 jeszcze jedna
 dodałem w phpstorm
 zzz
-phpstorm
-
+z2
