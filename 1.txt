@@ -6,3 +6,4 @@ jeszcze jedna
 dodałem w phpstorm
 zzz
 z2
+d
