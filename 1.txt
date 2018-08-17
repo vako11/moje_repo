@@ -7,3 +7,5 @@ dodałem w phpstorm
 zzz
 z2
 ps
+
+d
