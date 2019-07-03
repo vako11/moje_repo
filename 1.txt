@@ -14,3 +14,4 @@ d2
 ps
 d3
 ps2
+cos tam
