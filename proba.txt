@@ -4,3 +4,4 @@ linia z netbeansa
 jeszcze jedna linia
 d4
 11
+22
